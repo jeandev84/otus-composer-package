@@ -1,7 +1,7 @@
 <?php
 declare(strict_types=1);
 
-namespace JeanDev\OtusComposerPackage;
+namespace JeanOtusComposerPackage;
 
 
 /**
@@ -11,7 +11,7 @@ namespace JeanDev\OtusComposerPackage;
  *
  * @version 1.0.0
  *
- * @package JeanDev\OtusComposerPackage
+ * @package JeanOtusComposerPackage
  *
  * @copyright 2020 <Jean-Claude>
  *
