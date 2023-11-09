@@ -1,7 +1,7 @@
 <?php
 declare(strict_types=1);
 
-namespace JeanDev84\OtusComposerPackage;
+namespace JeanDev\OtusComposerPackage;
 
 
 class StringProcessor
