@@ -8,7 +8,9 @@
         }
     ],
     "autoload": {
-        "JeanDev\\OtusComposerPackage": "src/"
+        "psr-4": {
+             "JeanDev\\OtusComposerPackage": "src/"
+        }
     },
     "require": {
         "php": ">= 7.4"
