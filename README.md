@@ -20,3 +20,4 @@ $ composer require jeandev84/otus-composer-package
 $processor = new StringProcessor()
 echo $processor->getLength('my string'); // 9
 ```
+

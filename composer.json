@@ -1,0 +1,10 @@
+{
+    "name": "jeandev84/otus-composer-package",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Jeandev84\\OtusComposerPackage\\": "src/"
+        }
+    },
+    "require": {}
+}
